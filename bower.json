@@ -1,0 +1,17 @@
+{
+    "name": "caudex-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Nidud"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/caudex-bower.git"
+    },
+    "description": "Caudex font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
